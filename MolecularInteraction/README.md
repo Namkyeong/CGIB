@@ -29,5 +29,5 @@ Hyperparameters for balance the trade-off between prediction and compression.
 usage example :`--beta 1.0`
 
 `--tau:`
-Temperature hyperparameter for $\text{CGIB}_{\text{cont}}$
-usage example :`--beta 1.0`
+Temperature hyperparameter for $\text{CGIB}_{\text{cont}}$.  
+usage example :`--tau 1.0`

@@ -16,7 +16,7 @@ args = parameter_parser()
 dataset = GraphClassificationDataset(args)
 args.num_features = dataset.number_features
 
-config_str = "221006_" + config2string(args)
+config_str = config2string(args)
 writer = SummaryWriter(log_dir="runs/{}".format(config_str))
 
 os.environ["CUDA_VISIBLE_DEVICES"] = args.device[-1]
