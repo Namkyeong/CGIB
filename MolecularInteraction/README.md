@@ -17,7 +17,7 @@ Name of the dataset. Supported names are: chr_abs, chr_emi, chr_emi, mnsol, free
 usage example :`--dataset chr_abs`
 
 `--lr:`
-Learning rate for training the model. 
+Learning rate for training the model.  
 usage example :`--lr 0.001`
 
 `--epochs:`
@@ -25,5 +25,5 @@ Number of epochs for training the model.
 usage example :`--epochs 500`
 
 `--beta:`
-Hyperparameters for balance the trade-off between prediction and compression
+Hyperparameters for balance the trade-off between prediction and compression.  
 usage example :`--beta 1.0`
