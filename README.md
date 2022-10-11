@@ -1,2 +1,7 @@
-# CGIB
-This is the official source code for Conditional Graph Information Bottleneck for Relational Learning (CGIB).
+# Conditional Graph Information Bottleneck for Relational Learning
+The official source code for Conditional Graph Information Bottleneck for Relational Learning (CGIB).
+
+## Overview
+Relational learning, whose goal is to learn the interaction behavior between entity pairs, plays a central role in various machine learning tasks such as similarity learning and interaction prediction. In molecular science, graph neural networks have recently shown great success in relational learning by modeling a molecule as a graph structure, and considering atom-level interactions between two molecules. Despite their success, existing relational learning methods tend to overlook the nature of chemicals, i.e., a chemical is composed of multiple substructures such as functional groups that cause distinctive chemical reactions. In this work, we propose a novel relational learning method, called CGIB, that predicts the interaction behavior between a pair of graphs by detecting important subgraphs therein. The main idea is, given a pair of graphs, to find a substructure from a graph that contains the minimal sufficient information regarding the task at hand conditioned on the paired graph based on the principle of conditional graph information bottleneck. We argue that our proposed method mimics the nature of chemical reactions, i.e., the core substructure of a molecule varies depending on which other molecule it interacts with. Extensive experiments on various tasks with real-world datasets demonstrate the superiority of CGIB over state-of-the-art baselines.
+
+<img src="img/Figure1.pdf" width="500px"></img> 
