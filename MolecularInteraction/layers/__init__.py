@@ -1,0 +1,1 @@
+from .MPNN import GatherModel
