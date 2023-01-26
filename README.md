@@ -1,7 +1,6 @@
 # Conditional Graph Information Bottleneck for Relational Learning
 The official source code for Conditional Graph Information Bottleneck for Relational Learning (CGIB).
 
-**We uploaded online appendix which contains the information about used datasets in the experiments [**(Link)**](https://anonymous.4open.science/r/CGIB-AB1F/CGIB_online_appendix.pdf).**
 
 ## Overview
 Molecular relational learning, whose goal is to learn the interaction behavior between molecular pairs, got a surge of interest in molecular sciences due to its wide range of applications. 
