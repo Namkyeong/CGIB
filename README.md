@@ -13,7 +13,7 @@ Extensive experiments on various tasks with real-world datasets demonstrate the 
 
 <img src="imgs/Figure1.png" width="500px"></img> 
 
-**a) Molecules with hydroxyl group have high aqueous solubility. (b) C-CF3 structure decreases the solubility of molecules in water. (c) However, C-CF3 structure may not be crucial in determining the solubility of molecules in oil.**
+**a) Molecules with hydroxyl group have high aqueous solubility. (b) C-CF3 structure decreases the solubility of molecules in water. (c) However, C-CF3 structure is not crucial in determining the solubility of molecules in oil.**
 
 ### Requirements
 
