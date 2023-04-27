@@ -4,7 +4,7 @@
     <a href="https://pytorch.org/" alt="PyTorch">
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
     <a href="https://icml.cc/" alt="Conference">
-        <img src="https://img.shields.io/badge/ICML'22-brightgreen" /></a>
+        <img src="https://img.shields.io/badge/ICML'23-brightgreen" /></a>
 </p>
 
 The official source code for Conditional Graph Information Bottleneck for Molecular Relational Learning (CGIB), accepted at ICML 2023.
