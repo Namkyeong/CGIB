@@ -1,4 +1,4 @@
-# Drug-Drug Interaction Prediction Task
+# Graph Similarity Learning Task
 
 ### Download and Create datasets
 - Download AIDS OpenSSL dataset from https://github.com/cszhangzhen/H2MN.

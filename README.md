@@ -1,6 +1,13 @@
 # Conditional Graph Information Bottleneck for Molecular Relational Learning
-The official source code for Conditional Graph Information Bottleneck for Molecular Relational Learning (CGIB).
 
+<p align="center">   
+    <a href="https://pytorch.org/" alt="PyTorch">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
+    <a href="https://icml.cc/" alt="Conference">
+        <img src="https://img.shields.io/badge/ICML'22-brightgreen" /></a>
+</p>
+
+The official source code for Conditional Graph Information Bottleneck for Molecular Relational Learning (CGIB), accepted at ICML 2023.
 
 ## Overview
 Molecular relational learning, whose goal is to learn the interaction behavior between molecular pairs, got a surge of interest in molecular sciences due to its wide range of applications.
@@ -20,3 +27,7 @@ Extensive experiments on various tasks with real-world datasets demonstrate the 
 - Python version: 3.7.10
 - Pytorch version: 1.8.1
 - torch-geometric version: 1.7.0
+
+### How to Run the code?
+
+Please refer to the README.md file in each task folder for further instructions and details on how to run the code.
