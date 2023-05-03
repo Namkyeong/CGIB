@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/ICML'23-brightgreen" /></a>
 </p>
 
-The official source code for Conditional Graph Information Bottleneck for Molecular Relational Learning (CGIB), accepted at ICML 2023.
+The official source code for [**Conditional Graph Information Bottleneck for Molecular Relational Learning**](https://arxiv.org/abs/2305.01520), accepted at ICML 2023.
 
 ## Overview
 Molecular relational learning, whose goal is to learn the interaction behavior between molecular pairs, got a surge of interest in molecular sciences due to its wide range of applications.
