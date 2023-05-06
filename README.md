@@ -34,7 +34,7 @@ Please refer to the README.md file in each task folder for further instructions 
 
 ### Cite (Bibtex)
 - If you find ``CGIB`` useful in your research, please cite the following paper:
-  - Namkyeong Lee, Dongmin Hyun, Gyoung S. Na, Sungwon Kim, Junseok Lee, and Chanyoung Park. "Conditional Graph Information Bottleneck for Molecular Relational Learning." ICML 2022.
+  - Namkyeong Lee, Dongmin Hyun, Gyoung S. Na, Sungwon Kim, Junseok Lee, and Chanyoung Park. "Conditional Graph Information Bottleneck for Molecular Relational Learning." ICML 2023.
   - Bibtex
 ```
 @article{lee2023conditional,
